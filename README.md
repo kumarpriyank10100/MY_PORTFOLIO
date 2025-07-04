@@ -1,7 +1,4 @@
 <div align="center">
-  <br />
-  <img src="public/images/readme.png" alt="3D Portfolio Preview" />
-  <br />
   <h2>🚀 Interactive 3D Developer Portfolio</h2>
   <p>
     A fully responsive, immersive 3D portfolio website built with modern web technologies.
@@ -38,7 +35,8 @@ This project is a futuristic and visually engaging 3D developer portfolio websit
 > Here’s a snapshot of the 3D portfolio in action:
 
 <p align="center">
-  <img src="public/images/readme-video-kit.png" alt="Live Demo Preview" />
+  ![3](https://github.com/user-attachments/assets/53ff8241-10d0-406f-9a68-3cefec519892)
+
 </p>
 
 ---
