@@ -33,11 +33,8 @@ This project is a futuristic and visually engaging 3D developer portfolio websit
 ## 📸 Live Preview
 
 > Here’s a snapshot of the 3D portfolio in action:
+![3](https://github.com/user-attachments/assets/56190569-cd9d-4f60-b5cf-82a3a0db6f90)
 
-<p align="center">
-  ![3](https://github.com/user-attachments/assets/53ff8241-10d0-406f-9a68-3cefec519892)
-
-</p>
 
 ---
 
